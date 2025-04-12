@@ -17,8 +17,7 @@ The Excel Dashboard transforms raw sales data into a clean, visually rich format
 
 ## 📁 Files Included
 
-- `Sujeet Store Data Analysis (1).xlsx` – The main Excel file with the dashboard  
-- `Screenshot (14).png` – Preview image of the dashboard  
+- `Dashboard.xlsx` – The main Excel file with the dashboard  
 - `README.md` – Project documentation  
 
 ---
